@@ -1,8 +1,9 @@
 # student-assistant
 An app that keep tracks of student assignments for each and set reminds for each assignment.  
 
-iOS Functionalities:  
-UIKit - TableViewController, UINavigationController  
+iOS Functionalities:
+
+UIKit - TableViewController, UINavigationController, AutoLayout
 Device Orientation suitable for iPhone6 and iPad  
 NotificationCenter for assignment reminders.  
 Core Data to save courses and assignments.  
