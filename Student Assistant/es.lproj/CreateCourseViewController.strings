@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "BXf-Yu-e7E"; */
+"BXf-Yu-e7E.text" = "Nombre:";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "XNS-nb-h7P"; */
+"XNS-nb-h7P.text" = "Fecha:";
+
+/* Class = "UILabel"; text = "Course #"; ObjectID = "kx7-yj-9Ir"; */
+"kx7-yj-9Ir.text" = "Curso #";

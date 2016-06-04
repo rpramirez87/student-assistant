@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CourseViewController.h
 //  Student Assistant
 //
 //  Created by Group7 on 10/13/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CourseViewController : UITableViewController
 
 @end
-

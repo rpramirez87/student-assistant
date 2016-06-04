@@ -8,10 +8,16 @@
 
 #import <UIKit/UIKit.h>
 
+//Preferences
+extern NSString * const NextCourseNumberPrefsKey;
+extern NSString * const NextCourseNamePrefsKey;
+extern NSString * const NextCourseDatePrefsKey;
+extern NSString * const NextAssignmentTypePrefsKey;
+extern NSString * const NextAssignmentDueDatePrefsKey;
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-
 
 @end
 
