@@ -1,5 +1,5 @@
 # student-assistant
-An app that keep tracks of student assignments for each and set reminds for each assignment.  
+An app that keep tracks of student assignments for each and set reminders for each assignment.  
 
 iOS Functionalities:
 
