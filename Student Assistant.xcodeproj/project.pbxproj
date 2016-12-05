@@ -241,6 +241,7 @@
 				TargetAttributes = {
 					DE2B2B2F1BCD717D00505B95 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = RJETQ2A4J2;
 					};
 					DE2B2B481BCD717D00505B95 = {
 						CreatedOnToolsVersion = 6.4;
@@ -451,7 +452,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RJETQ2A4J2;
 				INFOPLIST_FILE = "Student Assistant/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.uhd.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -463,7 +466,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RJETQ2A4J2;
 				INFOPLIST_FILE = "Student Assistant/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.uhd.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
