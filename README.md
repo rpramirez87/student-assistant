@@ -1,5 +1,5 @@
 # Student Assistant
-#### Mobile Computing 2015
+### Mobile Computing 2015
 An app that keep tracks of student assignments for each and set reminders for each assignment.  
  
 #### iOS Functionalities:
